@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">aaaa</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Alternaria">Cultural methods of control are limited,.but controlling debris in the field will help. Good weed management, removing volunteers and alternative hosts such as nightshade, will also reduce levels of Alternaria. Long crop rotations can limit disease incidence.</string>
+    <string name="title_activity_various_disease">VariousDisease</string>
+
+</resources>
